@@ -1,0 +1,11 @@
+cname Boromir 560
+fsmstate xxx 3
+weapon sword 80
+protect helm 25
+protect chain-mail 48
+weapon dagger 18
+healing slave 10
+other horn 12
+protect shield 50
+healing elixir 18
+protect gauntlets 15
